@@ -1,0 +1,27 @@
+PODS:
+  - CRuby (0.1.0)
+  - Reflexion (0.1.0)
+
+DEPENDENCIES:
+  - CRuby (from `https://github.com/xord/cruby`)
+  - Reflexion (from `https://github.com/xord/reflexion`)
+
+EXTERNAL SOURCES:
+  CRuby:
+    :git: https://github.com/xord/cruby
+  Reflexion:
+    :git: https://github.com/xord/reflexion
+
+CHECKOUT OPTIONS:
+  CRuby:
+    :commit: 8f21ff52f4f40a5714764df1507fe00bdea711f6
+    :git: https://github.com/xord/cruby
+  Reflexion:
+    :commit: 0017e54d9d182e9ef5e3931acaf07c16e1ead095
+    :git: https://github.com/xord/reflexion
+
+SPEC CHECKSUMS:
+  CRuby: 9e7bb4009542f1056b3c2e02608fae2e8c7ceb33
+  Reflexion: 526d0d3e6b92b874dd2f904d045b443d6f3378e3
+
+COCOAPODS: 0.35.0
