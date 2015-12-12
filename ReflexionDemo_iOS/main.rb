@@ -10,4 +10,6 @@ draw do
         [xx, yy]
     }
     y += 1
+
+    text "#{event.fps.to_i} FPS", 10, 10
 end
